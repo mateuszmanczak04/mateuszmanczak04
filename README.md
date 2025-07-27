@@ -1,1 +1,1 @@
-![Background image](./background.jpg)
+![](https://komarev.com/ghpvc/?username=mateuszmanczak04)
