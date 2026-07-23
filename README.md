@@ -1,10 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=mateuszmanczak04)
 
-![](https://github-readme-stats.vercel.app/api?username=mateuszmanczak04&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+## Technologies
 
-![](https://nirzak-streak-stats.vercel.app/?user=mateuszmanczak04&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuszmanczak04&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+Currently I'm focused on deepening my Python+FastAPI+TypeScript+React knowledge. But beyond that I have worked with Elixir+Phoenix stack.
 
 ## Projects
 
