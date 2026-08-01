@@ -11,7 +11,6 @@ Currently I'm focused on deepening my Python+FastAPI+TypeScript+React knowledge.
 A fullstack application that helps people find the best time for a meeting when everyone is available. Uses AI to parse natural language to find when user is available. Can be installed as PWA
 
 [Deployment](https://meetingrid.com/)
-[Repo](https://github.com/mateuszmanczak04/meetingrid)
 
 ### Notecal
 
