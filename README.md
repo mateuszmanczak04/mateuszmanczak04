@@ -2,7 +2,7 @@
 
 ## Technologies
 
-Currently I'm focused on deepening my Python+FastAPI+TypeScript+React knowledge. But beyond that I have worked with Elixir+Phoenix stack.
+Currently I'm focused on deepening my PostgreSQL+Python+FastAPI+TypeScript+React knowledge. But beyond that I have worked with Elixir+Phoenix stack, in Next.js or have wrote some simple Rust.
 
 ## Projects
 
